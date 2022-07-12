@@ -7,6 +7,10 @@
 
 import UIKit
 
+var btnClickCount: [Int] = [0, 0, 0, 0, 0, 0, 0, 0, 0,]
+
+
+
 
 class ViewController: UIViewController {
     
